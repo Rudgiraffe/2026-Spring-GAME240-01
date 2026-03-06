@@ -1,0 +1,15 @@
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\bin\Debug\net8.0\While loop Homework.exe
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\bin\Debug\net8.0\While loop Homework.deps.json
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\bin\Debug\net8.0\While loop Homework.runtimeconfig.json
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\bin\Debug\net8.0\While loop Homework.dll
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\bin\Debug\net8.0\While loop Homework.pdb
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.AssemblyInfoInputs.cache
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.AssemblyInfo.cs
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.sourcelink.json
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.dll
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\refint\While loop Homework.dll
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.pdb
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\While loop Homework.genruntimeconfig.cache
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\february_19\project\While loop Homework\While loop Homework\obj\Debug\net8.0\ref\While loop Homework.dll
