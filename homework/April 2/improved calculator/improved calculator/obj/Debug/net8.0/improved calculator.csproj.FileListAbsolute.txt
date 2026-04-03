@@ -1,0 +1,15 @@
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\bin\Debug\net8.0\improved calculator.exe
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\bin\Debug\net8.0\improved calculator.deps.json
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\bin\Debug\net8.0\improved calculator.runtimeconfig.json
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\bin\Debug\net8.0\improved calculator.dll
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\bin\Debug\net8.0\improved calculator.pdb
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.AssemblyInfoInputs.cache
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.AssemblyInfo.cs
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.sourcelink.json
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.dll
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\refint\improved calculator.dll
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.pdb
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\improved calculator.genruntimeconfig.cache
+C:\Users\Jessica\OneDrive\Documents\Uni work\2026-Spring-GAME240-01\homework\April 2\improved calculator\improved calculator\obj\Debug\net8.0\ref\improved calculator.dll
