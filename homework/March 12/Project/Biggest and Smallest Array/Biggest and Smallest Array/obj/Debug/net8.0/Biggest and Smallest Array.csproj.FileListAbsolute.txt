@@ -1,0 +1,14 @@
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/bin/Debug/net8.0/Biggest and Smallest Array
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/bin/Debug/net8.0/Biggest and Smallest Array.deps.json
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/bin/Debug/net8.0/Biggest and Smallest Array.runtimeconfig.json
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/bin/Debug/net8.0/Biggest and Smallest Array.dll
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/bin/Debug/net8.0/Biggest and Smallest Array.pdb
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/Biggest and Smallest Array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/Biggest and Smallest Array.AssemblyInfoInputs.cache
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/Biggest and Smallest Array.AssemblyInfo.cs
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/Biggest and Smallest Array.csproj.CoreCompileInputs.cache
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/Biggest and Smallest Array.dll
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/refint/Biggest and Smallest Array.dll
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/Biggest and Smallest Array.pdb
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/Biggest and Smallest Array.genruntimeconfig.cache
+/Users/aftogo/Desktop/Biggest and Smallest Array/Biggest and Smallest Array/obj/Debug/net8.0/ref/Biggest and Smallest Array.dll
