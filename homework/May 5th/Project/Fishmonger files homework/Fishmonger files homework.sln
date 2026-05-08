@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fishmonger files homework", "Fishmonger files homework\Fishmonger files homework.csproj", "{6E2D8602-D08C-4C65-8D71-9D9EB3A9A885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E2D8602-D08C-4C65-8D71-9D9EB3A9A885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2D8602-D08C-4C65-8D71-9D9EB3A9A885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2D8602-D08C-4C65-8D71-9D9EB3A9A885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2D8602-D08C-4C65-8D71-9D9EB3A9A885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

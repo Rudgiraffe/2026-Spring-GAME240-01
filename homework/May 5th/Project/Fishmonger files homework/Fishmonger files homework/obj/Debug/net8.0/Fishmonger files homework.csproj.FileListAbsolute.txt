@@ -1,0 +1,4 @@
+/Volumes/LaCie/Game programming class/Fishmonger files homework/Fishmonger files homework/obj/Debug/net8.0/Fishmonger files homework.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/LaCie/Game programming class/Fishmonger files homework/Fishmonger files homework/obj/Debug/net8.0/Fishmonger files homework.AssemblyInfoInputs.cache
+/Volumes/LaCie/Game programming class/Fishmonger files homework/Fishmonger files homework/obj/Debug/net8.0/Fishmonger files homework.AssemblyInfo.cs
+/Volumes/LaCie/Game programming class/Fishmonger files homework/Fishmonger files homework/obj/Debug/net8.0/Fishmonger files homework.csproj.CoreCompileInputs.cache
