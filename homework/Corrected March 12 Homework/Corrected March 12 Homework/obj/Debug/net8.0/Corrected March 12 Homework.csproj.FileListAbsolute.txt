@@ -1,0 +1,14 @@
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/bin/Debug/net8.0/Corrected March 12 Homework
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/bin/Debug/net8.0/Corrected March 12 Homework.deps.json
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/bin/Debug/net8.0/Corrected March 12 Homework.runtimeconfig.json
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/bin/Debug/net8.0/Corrected March 12 Homework.dll
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/bin/Debug/net8.0/Corrected March 12 Homework.pdb
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/Corrected March 12 Homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/Corrected March 12 Homework.AssemblyInfoInputs.cache
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/Corrected March 12 Homework.AssemblyInfo.cs
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/Corrected March 12 Homework.csproj.CoreCompileInputs.cache
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/Corrected March 12 Homework.dll
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/refint/Corrected March 12 Homework.dll
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/Corrected March 12 Homework.pdb
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/Corrected March 12 Homework.genruntimeconfig.cache
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 12 Homework/Corrected March 12 Homework/obj/Debug/net8.0/ref/Corrected March 12 Homework.dll
