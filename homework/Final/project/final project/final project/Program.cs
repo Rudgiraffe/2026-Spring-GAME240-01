@@ -20,7 +20,7 @@ class Program
         foreach (char c in text)
         {
             Console.Write(c);
-            Thread.Sleep(0);
+            Thread.Sleep(40);
         }
 
         Console.WriteLine();
@@ -32,7 +32,7 @@ class Program
         foreach (char c in text)
         {
             Console.Write(c);
-            Thread.Sleep(0);
+            Thread.Sleep(40);
         }
         
         Console.WriteLine();
@@ -44,7 +44,7 @@ class Program
         foreach (char c in text)
         {
             Console.Write(c);
-            Thread.Sleep(0);
+            Thread.Sleep(40);
         }
         
         Console.WriteLine();
