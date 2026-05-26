@@ -1,0 +1,14 @@
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/bin/Debug/net8.0/Corrected March 5 homework
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/bin/Debug/net8.0/Corrected March 5 homework.deps.json
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/bin/Debug/net8.0/Corrected March 5 homework.runtimeconfig.json
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/bin/Debug/net8.0/Corrected March 5 homework.dll
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/bin/Debug/net8.0/Corrected March 5 homework.pdb
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/Corrected March 5 homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/Corrected March 5 homework.AssemblyInfoInputs.cache
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/Corrected March 5 homework.AssemblyInfo.cs
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/Corrected March 5 homework.csproj.CoreCompileInputs.cache
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/Corrected March 5 homework.dll
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/refint/Corrected March 5 homework.dll
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/Corrected March 5 homework.pdb
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/Corrected March 5 homework.genruntimeconfig.cache
+/Users/wendyrudnick/Desktop/Jessica's stuff/Corrected March 5 homework/Corrected March 5 homework/obj/Debug/net8.0/ref/Corrected March 5 homework.dll
